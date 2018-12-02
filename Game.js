@@ -59,25 +59,25 @@ App = function () {
         {
             number: 1, bImage: './images/PrvaPozadina.png', numberOfEnemies: 3,
             maxEnemies: 7, startShoot: 0.97, battleshipStartShoot: 1.0,
-            pointsNeeded: 10, textLevel: 'Level 1 - First Wave',
+            pointsNeeded: 140, textLevel: 'Level 1 - First Wave',
             rampTime: 6, speedIncrease: 0
         },
         {
             number: 2, bImage: './images/DrugaPozadina.png', numberOfEnemies: 4,
             maxEnemies: 8, startShoot: 0.97, battleshipStartShoot: 0.8,
-            pointsNeeded: 10, textLevel: 'Level 2 - Defending Earth',
+            pointsNeeded: 180, textLevel: 'Level 2 - Defending Earth',
             rampTime: 4, speedIncrease: 0
         },
         {
             number: 3, bImage: './images/TrecaPozadina.png', numberOfEnemies: 6,
             maxEnemies: 12, startShoot: 0.97, battleshipStartShoot: 0.6,
-            pointsNeeded: 10, textLevel: 'Level 3 - Battleship Showdown',
+            pointsNeeded: 220, textLevel: 'Level 3 - Battleship Showdown',
             rampTime: 4, speedIncrease: 0
         },
         {
             number: 4, bImage: './images/CetvrtaPozadina.jpg', numberOfEnemies: 1,
             maxEnemies: 1, startShoot: 0.97, mothershipStartShoot: 0.4,
-            pointsNeeded: 10, textLevel: 'Level 4 - The Final Battle',
+            pointsNeeded: 400, textLevel: 'Level 4 - The Final Battle',
             rampTime: 4, speedIncrease: 0
         }
     ];
