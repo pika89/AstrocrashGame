@@ -5,7 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/Game.js" line="299" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01541a77-4037-413a-b4e9-a7a452283e09" name="Default Changelist" comment="" />
+    <list default="true" id="01541a77-4037-413a-b4e9-a7a452283e09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -124,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,7 +138,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,7 +210,9 @@
       <workItem from="1541537696741" duration="17682000" />
       <workItem from="1541688433416" duration="3250000" />
       <workItem from="1543758856694" duration="11330000" />
-      <workItem from="1543770723721" duration="244000" />
+      <workItem from="1543770723721" duration="545000" />
+      <workItem from="1543771284975" duration="751000" />
+      <workItem from="1543772052922" duration="240000" />
     </task>
     <task id="LOCAL-00001" summary="improved doc with use case and uml class diagrams">
       <created>1541531875772</created>
@@ -256,7 +260,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57904000" />
+    <option name="totallyTimeSpent" value="59196000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -281,9 +285,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.50052685" side_tool="true" weight="0.1787649" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49683878" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50316125" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.50474185" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49525815" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50316125" side_tool="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
