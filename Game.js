@@ -14,8 +14,8 @@ App = function () {
     this.level = 0;
     // zvučni efekti
     this.sound = true;					// ovo koristimo za debug
-    this.soundShip = './sounds/BrodZvuk.ogg';
-    this.soundLaser = './sounds/Laser.ogg';
+    this.soundShip = './sounds/BrodZvuk.aac';
+    this.soundLaser = './sounds/Laser.aac';
     this.soundExplosion = './sounds/Eksplozija.ogg';
     this.soundHit = './sounds/Pogodak.ogg';
 
