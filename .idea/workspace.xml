@@ -7,6 +7,9 @@
   <component name="ChangeListManager">
     <list default="true" id="01541a77-4037-413a-b4e9-a7a452283e09" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/Game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zavrsni-Rad-Dusan_Nikodijevic_1571.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Zavrsni-Rad-Dusan_Nikodijevic_1571.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sounds/Laser.aac" beforeDir="false" afterPath="$PROJECT_DIR$/sounds/Laser.aac" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,20 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Game.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+            <state relative-caret-position="207">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Game.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -119,12 +122,12 @@
       <list>
         <option value="$PROJECT_DIR$/spec/player.spec.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Game.html" />
         <option value="$PROJECT_DIR$/Enemy.js" />
         <option value="$PROJECT_DIR$/Player.js" />
         <option value="$PROJECT_DIR$/Scoreboard.js" />
-        <option value="$PROJECT_DIR$/Game.js" />
         <option value="$PROJECT_DIR$/Index.php" />
+        <option value="$PROJECT_DIR$/Game.html" />
+        <option value="$PROJECT_DIR$/Game.js" />
       </list>
     </option>
   </component>
@@ -145,6 +148,11 @@
             <path>
               <item name="astrocrash-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="astrocrash-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="astrocrash-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="astrocrash-master" type="462c0819:PsiDirectoryNode" />
+              <item name="sounds" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,7 +235,7 @@
       <workItem from="1543771284975" duration="751000" />
       <workItem from="1543772052922" duration="513000" />
       <workItem from="1543772615570" duration="258000" />
-      <workItem from="1543772888361" duration="1820000" />
+      <workItem from="1543772888361" duration="3036000" />
     </task>
     <task id="LOCAL-00001" summary="improved doc with use case and uml class diagrams">
       <created>1541531875772</created>
@@ -292,11 +300,25 @@
       <option name="project" value="LOCAL" />
       <updated>1543774587396</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fix">
+      <created>1543774853071</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1543774853071</updated>
+    </task>
+    <task id="LOCAL-00011" summary="changed points needed to default value">
+      <created>1543775180404</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1543775180404</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61547000" />
+    <option name="totallyTimeSpent" value="62763000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -311,7 +333,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,9 +344,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5057956" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5057956" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49420443" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50316125" side_tool="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5057956" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -379,7 +401,8 @@
     <MESSAGE value="fixed bug with enemy laser start position, scoreboard sprite lose health" />
     <MESSAGE value="fixed bug with enemy laser,scorebard health, losing health etc" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="changed points needed to default value" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed points needed to default value" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/eksplozija.png">
@@ -575,20 +598,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Game.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
