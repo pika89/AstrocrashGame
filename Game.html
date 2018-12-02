@@ -16,15 +16,6 @@
         {
 			$("#wade_main_div").hide();
 			wade.init('Game.js');
-
-            $("audio").bind("stalled", function() {
-                var audio = this;
-                audio.load();
-
-                // Threw in these two lines for good measure.
-                audio.play();
-                audio.pause();
-            });
         });
 
 
